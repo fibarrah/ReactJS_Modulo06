@@ -1,0 +1,18 @@
+.boxStyle {
+
+    margin: 20px;
+    padding: 19px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px #ccc;
+  
+    background-color: lightblue;
+  }
+
+  @media (min-width: 900px){
+    .boxStyle {
+      width: 45%;
+      display: inline-block;
+    }
+  }
+ 

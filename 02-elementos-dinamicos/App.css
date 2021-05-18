@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.boxStyle {
+
+  margin: 20px;
+  padding: 19px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px #ccc;
+
+}
